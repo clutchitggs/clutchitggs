@@ -1,6 +1,6 @@
 ### Tal Nagar
 
-Electrical Engineering student at H.I.T, 3rd year, power-engineering specialty.
+Electrical Engineering student at H.I.T, 3rd year, power-engineering specialization.
 Licensed electrician. 2 years as a practical EE at U-tron.
 Based in Israel.
 
