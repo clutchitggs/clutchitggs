@@ -4,6 +4,8 @@ EE student at HIT, 3rd year, power-engineering specialty.
 Licensed electrician. 2 years as a practical EE at U-tron.
 Based in Israel.
 
+The projects below started as solo-founder attempts. None became sustainable businesses; the engineering taught me a lot.
+
 ---
 
 ### Projects
