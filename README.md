@@ -14,8 +14,8 @@ Audio spectrum analyzer for the Seeed XIAO ESP32-S3 Sense. On-board PDM mic → 
 #### [ARIA](https://github.com/clutchitggs/ARIA)
 Library that wraps Anthropic / OpenAI / Google API calls and watches for agent loops, cascade failures, budget overruns and prompt injection. Detection and prevention modes. Node.js and Python.
 
-#### [hunter-max](https://github.com/clutchitggs/hunter-max)
-Security research framework. Parses webpack Module Federation chunk maps to expand SPA attack surfaces, then ranks the extracted endpoints by attack potential using an LLM. Python.
+#### [hunter-max-oss](https://github.com/clutchitggs/hunter-max-oss)
+Security research framework. Parses webpack Module Federation chunk maps to expand SPA attack surfaces, then ranks the extracted endpoints by attack potential using an LLM. Python. For authorized research only.
 
 ---
 
