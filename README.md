@@ -17,14 +17,19 @@ Library that wraps Anthropic / OpenAI / Google API calls and watches for agent l
 #### [hunter-max-oss](https://github.com/clutchitggs/hunter-max-oss)
 Security research framework. Parses webpack Module Federation chunk maps to expand SPA attack surfaces, then ranks the extracted endpoints by attack potential using an LLM. Python. For authorized research only.
 
+#### [TraceClinical](https://traceclinical.com)
+Side project — clinical decision support tool for mental-health screening. Web app, deployed.
+
 ---
 
 ### Stack
 
-C · Python · JavaScript / TypeScript
-ESP32 · ESP-IDF · FreeRTOS · real-time embedded · DSP
-Power: mains AC, three-phase, motor control
-AI-assisted development
+- **Embedded / hardware** — ESP32, ESP-IDF, FreeRTOS, real-time DSP
+- **Power engineering** — mains AC, three-phase, motor control
+- **Software** — Python, JavaScript / TypeScript, Node.js, full-stack web
+- **AI tooling** — LLM API integration, agent observability, security automation
+
+Heavy AI-assisted development workflow.
 
 ---
 
