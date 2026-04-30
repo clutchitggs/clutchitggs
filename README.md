@@ -30,4 +30,4 @@ AI-assisted development
 
 ### Contact
 
-[LinkedIn](linkedin.com/in/tal-nagar-907909250) · [email](mailto:locartis1@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/tal-nagar-907909250/) · [email](mailto:locartis1@gmail.com)
