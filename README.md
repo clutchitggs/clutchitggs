@@ -30,6 +30,4 @@ AI-assisted development
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/your-handle-here/) · [email](mailto:your.email@example.com)
-
-<sub>Update the LinkedIn URL and email in this file before sharing the profile.</sub>
+[LinkedIn](linkedin.com/in/tal-nagar-907909250) · [email](mailto:locartis1@gmail.com)
