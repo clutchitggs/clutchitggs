@@ -18,7 +18,7 @@ Library that wraps Anthropic / OpenAI / Google API calls and watches for agent l
 Security research framework. Parses webpack Module Federation chunk maps to expand SPA attack surfaces, then ranks the extracted endpoints by attack potential using an LLM. Python. For authorized research only.
 
 #### [TraceClinical](https://traceclinical.com)
-Side project — clinical decision support tool for mental-health screening. Web app, deployed.
+Clinical Decision Support System(CDSS) for mental-health screening. Web app, deployed.
 
 ---
 
