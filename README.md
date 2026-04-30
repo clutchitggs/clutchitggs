@@ -24,7 +24,7 @@ Security research framework. Parses webpack Module Federation chunk maps to expa
 C · Python · JavaScript / TypeScript
 ESP32 · ESP-IDF · FreeRTOS · real-time embedded · DSP
 Power: mains AC, three-phase, motor control
-Anthropic, OpenAI
+AI-assisted development
 
 ---
 
