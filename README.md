@@ -72,13 +72,6 @@ AI-accelerated workflow — leveraging LLM tooling to ship faster across stacks.
 
 ---
 
-## Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=clutchitggs&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clutchitggs&layout=compact&hide_border=true&theme=default)
-
----
-
 ## Contact
 
 [**LinkedIn**](https://www.linkedin.com/in/tal-nagar-907909250/) · [**Email**](mailto:locartis1@gmail.com)
