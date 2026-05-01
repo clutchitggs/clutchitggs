@@ -32,7 +32,7 @@ Clinical Decision Support System(CDSS) for mental-health screening. Web app, dep
 - **Software** — Python, JavaScript / TypeScript, Node.js, full-stack web
 - **AI tooling** — LLM API integration, agent observability, security automation
 
-Heavy AI-assisted development workflow.
+Utilizing AI-accelerated workflows to rapidly prototype and ship.
 
 ---
 
