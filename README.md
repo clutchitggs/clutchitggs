@@ -11,7 +11,7 @@ The projects below started with curiosity that led to solo-founder attempts. Non
 
 ### Projects
 
-#### [ESP32_EdgeAI](https://github.com/clutchitggs/ESP32_EdgeAI)
+#### [xiao-edge-audio](https://github.com/clutchitggs/xiao-edge-audio)
 Audio spectrum analyzer for the Seeed XIAO ESP32-S3 Sense. On-board PDM mic → 1024-point FFT on the chip → binary WebSocket → waveform, dB spectrum and scrolling spectrogram in a browser. ESP-IDF, FreeRTOS, pure C.
 
 #### [hunter-max-oss](https://github.com/clutchitggs/hunter-max-oss)
