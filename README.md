@@ -57,7 +57,7 @@ Clinical decision-support tool for behavioral-health screening. Built end-to-end
 | **Software** | C, Python, JavaScript / TypeScript, Node.js, MATLAB |
 | **AI tooling** | LLM API integration (Anthropic / OpenAI / Google), agent observability, security automation |
 
-AI-accelerated workflow — leveraging LLM tooling to ship faster across stacks.
+AI-accelerated workflow — leveraging LLM tools to ship and learn faster across stacks.
 
 ---
 
