@@ -1,41 +1,86 @@
-### Tal Nagar
+# Tal Nagar
 
-Electrical Engineering student at HIT, 3rd year, power-engineering specialization.
-Licensed electrician. 
-2 years industry experience as a practical EE at U-tron.
-Based in Israel.
+**B.Sc. Electrical Engineering @ HIT · Licensed Master Electrician · Solo builder shipping across embedded, AI, security, and full-stack**
 
-The projects below started with curiosity that led to solo-founder attempts. None became sustainable businesses; on the bright side the development process taught me a lot.
-
----
-
-### Projects
-
-#### [xiao-edge-audio](https://github.com/clutchitggs/xiao-edge-audio)
-Audio spectrum analyzer for the Seeed XIAO ESP32-S3 Sense. On-board PDM mic → 1024-point FFT on the chip → binary WebSocket → waveform, dB spectrum and scrolling spectrogram in a browser. ESP-IDF, FreeRTOS, pure C.
-
-#### [hunter-max-oss](https://github.com/clutchitggs/hunter-max-oss)
-Bug-bounty research framework for single-page apps. Parses webpack Module Federation chunks to expand attack surfaces; an LLM generates ranked attack hypotheses with reasoning for each discovered endpoint. Anthropic Cyber Verification Program approved. For authorized research only.
-
-#### [ARIA](https://github.com/clutchitggs/ARIA)
-Library that wraps Anthropic / OpenAI / Google API calls and watches for agent loops, cascade failures, budget overruns and prompt injection. Detection and prevention modes. Node.js and Python.
-
-#### [TraceClinical](https://traceclinical.com)
-Clinical Decision Support System (CDSS) for mental-health screening. Web app, deployed.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tal--nagar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tal-nagar-907909250/)
+[![Email](https://img.shields.io/badge/Email-locartis1%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:locartis1@gmail.com)
+[![Location](https://img.shields.io/badge/Based%20in-Israel-blue)](#)
 
 ---
 
-### Stack
+3rd-year EE student at the Holon Institute of Technology with 2 years of industrial-automation field experience as a Licensed Master Electrician. Currently shipping solo projects across embedded systems, AI infrastructure, cybersecurity, and full-stack web — exploring the field one deployed project at a time.
 
-- **Embedded / hardware** — ESP32, ESP-IDF, FreeRTOS, real-time DSP
-- **Power-Engineering** — Three-phase systems, AC/DC power, Industrial control systems, diagnosis & troubleshooting, Schematics
-- **Software** — Python, JavaScript / TypeScript, Node.js, full-stack web
-- **AI tooling** — LLM API integration, agent observability, security automation
-
-Utilizing AI-accelerated workflows to rapidly prototype and ship.
+> **Open to student roles and internships.** Embedded, software, security, AI tooling — anything I'd learn from. Available now.
 
 ---
 
-### Contact
+## Featured projects
 
-[LinkedIn](https://www.linkedin.com/in/tal-nagar-907909250/) · [email](mailto:locartis1@gmail.com)
+### [xiao-edge-audio](https://github.com/clutchitggs/xiao-edge-audio) · embedded · ESP-IDF · FreeRTOS · pure C
+
+Real-time audio spectrum analyzer running entirely on a Seeed XIAO ESP32-S3 Sense. On-board PDM mic → DMA-backed I²S capture → 1024-point FFT on-chip → binary WebSocket → live waveform, FFT spectrum and scrolling spectrogram in the browser at ~20 fps.
+
+`ESP32-S3` `ESP-IDF 5.x` `FreeRTOS` `real-time DSP` `I²S PDM` `WebSocket`
+
+---
+
+### [hunter-max-oss](https://github.com/clutchitggs/hunter-max-oss) · security research · Python · LLM tooling
+
+Bug-bounty research framework for single-page apps. Parses webpack Module Federation chunks to expand the visible API surface from ~3 bundles to 100+, then uses one LLM call to rank discovered endpoints by attack potential and a kill-list to drop known false-positive shapes. Tested in real engagements via Bugcrowd. **Approved participant in the Anthropic Cyber Verification Program.**
+
+`Python` `Anthropic / OpenAI` `webpack analysis` `bug-bounty` `for authorized research only`
+
+---
+
+### [ARIA](https://github.com/clutchitggs/ARIA) · AI infra · Node.js · Python
+
+Library wrapping Anthropic / OpenAI / Google API calls — watches for agent loops, cascade failures, budget overruns, and prompt injection. Detection and prevention modes. Local pattern detection (no prompts leave the host) plus an optional remote diagnostic endpoint that sees only health metrics.
+
+`Node.js` `Python` `LLM observability` `cost control` `agent safety`
+
+---
+
+### [TRACE — traceclinical.com](https://traceclinical.com) · full-stack · Vercel · serverless
+
+Clinical decision-support tool for behavioral-health screening. Built end-to-end: deterministic engine on a Vercel serverless function, single-page frontend, production deployment. Live; pre real-world clinical validation. Founder & developer.
+
+`HTML/JS` `Node.js` `Vercel serverless` `deterministic engine`
+
+---
+
+## Stack
+
+| Domain | Tools |
+|---|---|
+| **Embedded / firmware** | ESP32, ESP-IDF, FreeRTOS, real-time DSP, I²C / SPI / I²S |
+| **Power engineering** | three-phase systems, AC/DC power, industrial control, diagnosis & troubleshooting, schematics |
+| **Software** | C, Python, JavaScript / TypeScript, Node.js, MATLAB |
+| **AI tooling** | LLM API integration (Anthropic / OpenAI / Google), agent observability, security automation |
+
+AI-accelerated workflow — leveraging LLM tooling to ship faster across stacks.
+
+---
+
+## Background
+
+| | |
+|---|---|
+| **2023 – 2027** | B.Sc. Electrical Engineering · Holon Institute of Technology (HIT) — power-engineering specialization. Coursework: DSP, Signals & Systems, EM Fields & Waves, Control Systems, Microcontrollers Lab. |
+| **2021 – 2023** | Service Technician · U-tron — diagnosed real-time automation faults in electro-mechanical parking and logistics-center systems. On-site maintenance, troubleshooting, customer communication. |
+| **2019 – 2021** | Practical Electrical Engineer · ORT College Rehovot — graduated with High Distinction (GPA 95). |
+| **2015 – 2016** | National Service · Assaf Harofeh Hospital — logistics across departments. |
+
+---
+
+## Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=clutchitggs&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=default)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clutchitggs&layout=compact&hide_border=true&theme=default)
+
+---
+
+## Contact
+
+[**LinkedIn**](https://www.linkedin.com/in/tal-nagar-907909250/) · [**Email**](mailto:locartis1@gmail.com)
+
+Hebrew (native) · English (advanced technical) · Master Electrician licence · Driver's licence
