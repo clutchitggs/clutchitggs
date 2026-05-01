@@ -15,7 +15,7 @@ The projects below started with curiosity that led to solo-founder attempts. Non
 Audio spectrum analyzer for the Seeed XIAO ESP32-S3 Sense. On-board PDM mic → 1024-point FFT on the chip → binary WebSocket → waveform, dB spectrum and scrolling spectrogram in a browser. ESP-IDF, FreeRTOS, pure C.
 
 #### [hunter-max-oss](https://github.com/clutchitggs/hunter-max-oss)
-Security research framework. Parses webpack Module Federation chunk maps to expand SPA attack surfaces, then ranks the extracted endpoints by attack potential using an LLM. Vetted and approved for the Anthropic Cyber Verification Program (CVP), Utilized adjusted model safeguards to perform dual-use cybersecurity activities, including high-stakes vulnerability exploitation research. For authorized research only. Python.
+Security research framework. Parses webpack Module Federation chunk maps to expand SPA attack surfaces, then ranks the extracted endpoints by attack potential using an LLM. Vetted and approved for the Anthropic Cyber Verification Program (CVP), Utilized adjusted model safeguards to perform dual-use cybersecurity activities, including high-stakes vulnerability exploitation research. For authorized research only.
 
 #### [ARIA](https://github.com/clutchitggs/ARIA)
 Library that wraps Anthropic / OpenAI / Google API calls and watches for agent loops, cascade failures, budget overruns and prompt injection. Detection and prevention modes. Node.js and Python.
