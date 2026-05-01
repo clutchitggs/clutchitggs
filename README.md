@@ -21,7 +21,7 @@ Security research framework. Parses webpack Module Federation chunk maps to expa
 Library that wraps Anthropic / OpenAI / Google API calls and watches for agent loops, cascade failures, budget overruns and prompt injection. Detection and prevention modes. Node.js and Python.
 
 #### [TraceClinical](https://traceclinical.com)
-Clinical Decision Support System(CDSS) for mental-health screening. Web app, deployed.
+Clinical Decision Support System (CDSS) for mental-health screening. Web app, deployed.
 
 ---
 
