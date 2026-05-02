@@ -10,7 +10,7 @@
 
 3rd-year EE student at the Holon Institute of Technology with 2 years of industrial-automation field experience as a Licensed Master Electrician. Currently shipping solo projects across embedded systems, AI infrastructure, cybersecurity, and full-stack web — exploring the field one deployed project at a time.
 
-> **Open to student roles and internships.** Embedded, software, security, AI tooling — anything I'd learn from. Available now.
+> **Open to student roles and internships.** Embedded, software, security, AI tooling — anything I'd learn from.
 
 ---
 
