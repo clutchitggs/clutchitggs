@@ -15,6 +15,7 @@ Licensed Master Electrician with two years of hands-on field experience troubles
 Outside of work I build embedded and software projects, from real-time DSP on microcontrollers to full-stack web apps. Comfortable reading schematics, writing code, and working a night shift when the chiller alarm goes off.
 
 Interested in critical facilities engineering, commissioning, and hyperscale data center operations.
+
 ---
 
 ## Featured projects
