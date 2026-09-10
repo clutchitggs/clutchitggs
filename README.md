@@ -1,6 +1,6 @@
 # Tal Nagar
 
-**B.Sc. Electrical Engineering @ HIT · Licensed Master Electrician · Solo builder shipping across embedded, AI, security, and full-stack**
+**Data Center Engineer @ MEGA D.C | Licensed Master Electrician | B.Sc. Electrical Engineering (2027)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tal--nagar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tal-nagar-907909250/)
 [![Email](https://img.shields.io/badge/Email-locartis1%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:locartis1@gmail.com)
@@ -8,10 +8,13 @@
 
 ---
 
-EE student at the Holon Institute of Technology with 2 years of industrial-automation field experience as a Licensed Master Electrician. Currently shipping solo projects across embedded systems, AI infrastructure, cybersecurity, and full-stack web — exploring the field one deployed project at a time.
+Data Center Engineer at MEGA D.C, working on the 24/7 operations team of a new AI-focused data center in Modi'in: electrical distribution, generators and UPS, cooling plant, fire systems and BMS/SCADA.
 
-> **Open to student roles and internships.** Embedded, software, security, AI tooling — anything I'd learn from.
+Licensed Master Electrician with two years of hands-on field experience troubleshooting industrial electro-mechanical automation before moving into critical facilities. Completing a B.Sc. in Electrical Engineering (power track) at HIT, expected 2027.
 
+Outside of work I build embedded and software projects, from real-time DSP on microcontrollers to full-stack web apps. Comfortable reading schematics, writing code, and working a night shift when the chiller alarm goes off.
+
+Interested in critical facilities engineering, commissioning, and hyperscale data center operations.
 ---
 
 ## Featured projects
