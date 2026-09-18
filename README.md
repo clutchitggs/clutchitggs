@@ -57,7 +57,7 @@ Clinical decision-support tool for behavioral-health screening. Built end-to-end
 | Domain | Tools |
 |---|---|
 | **Embedded / firmware** | ESP32, ESP-IDF, FreeRTOS, real-time DSP, I²C / SPI / I²S |
-| **Power engineering** | three-phase systems, AC/DC power, industrial control, diagnosis & troubleshooting, schematics |
+| **Power engineering** | Data center systems, AC/DC power, industrial control, diagnosis & troubleshooting, schematics |
 | **Software** | C, Python, JavaScript / TypeScript, Node.js, MATLAB |
 | **AI tooling** | LLM API integration (Anthropic / OpenAI / Google), agent observability, security automation |
 
