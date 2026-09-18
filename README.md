@@ -12,7 +12,7 @@ Data Center Engineer at MEGA D.C, working on the 24/7 operations team of a new A
 
 Licensed Master Electrician with two years of hands-on field experience troubleshooting industrial electro-mechanical automation before moving into critical facilities. Completing a B.Sc. in Electrical Engineering (power track) at HIT, expected 2027.
 
-Outside of work I build embedded and software projects, from real-time DSP on microcontrollers to full-stack web apps. Comfortable reading schematics, writing code, and working a night shift when the chiller alarm goes off.
+Outside of work I enjoy building hardware and software projects, from real-time DSP on microcontrollers to full-stack web apps. Comfortable reading schematics, writing code, and working a night shift when the chiller alarm goes off.
 
 Interested in critical facilities engineering, commissioning, and hyperscale data center operations.
 
